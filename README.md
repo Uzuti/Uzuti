@@ -6,7 +6,7 @@
 <h4>print(name)</h4>
 
 
-<h4>interests = ("Interests: Languages, Technology, Engineering, Programming")</h4>
+<h4>interests = ("Languages, Technology, Engineering, Programming")</h4>
 <h4>print(interests)</h4>
 
 
