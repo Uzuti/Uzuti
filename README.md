@@ -1,29 +1,29 @@
-greeting = ("Hi there!👋")
-print(greeting)
+<h2>greeting = ("Hi there!👋")</h2>
+<h3>print(greeting)</h3>
 
 
-name = ("Botond \"Uzuti\" Tamba")
-print(name)
+<h2>name = ("Botond \"Uzuti\" Tamba")</h2>
+<h3>print(name)</h3>
 
 
-interests = ("Interests: Languages, Technology, Engineering, Programming
-print(interests)
+<h2>interests = ("Interests: Languages, Technology, Engineering, Programming")</h2>
+<h3>print(interests)</h3>
 
 
-me = ("I'm a 16 y/o Hungarian student")
-print(me)
+<h2>me = ("I'm a 16 y/o Hungarian student")</h2>
+<h3>print(me)</h3>
 
 
-programming_language = ("HTML | CSS | (In progress:) JavaScript, Python")
-print(programming_language)
+<h2>programming_language = ("HTML | CSS | (In progress:) JavaScript, Python")</h2>
+<h3>print(programming_language)</h3>
 
 
-what_i_use_for_programming = ("Git | Atom | Visual Studio Code")
-print(what_i_use_for_programming)
+<h2>what_i_use_for_programming = ("Git | Atom | Visual Studio Code")</h2>
+<h3>print(what_i_use_for_programming)</h3>
 
 
-what_i_usually_use = ("Photoshop, Illustrator, Premiere Pro, After Effects, Lightroom")
-print(what_i_usually_use)
+<h2>what_i_usually_use = ("Photoshop, Illustrator, Premiere Pro, After Effects, Lightroom")</h2>
+<h3>print(what_i_usually_use)</h3>
 
 
 <br>
