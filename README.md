@@ -2,7 +2,7 @@
 <h4>print(greeting)</h4>
 
 
-<h4>name = ("Botond \"Uzuti\" Tamba")</h4>
+<h4>name = ("Botond  \"Uzuti\"  Tamba")</h4>
 <h4>print(name)</h4>
 
 
