@@ -30,4 +30,4 @@
 <hr>
 <br>
 
-![Metrics](https://metrics.lecoq.io/Uzuti?template=classic&config.timezone=Europe%2FBudapest&config.animated=true)
+![Metrics](https://metrics.lecoq.io/Uzutitemplate=classic&languages=1&tweets=1&posts=1&languages.colors=github&posts.source=undefined&posts.limit=4&posts.user=.user.login&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Europe%2FBudapest&config.animated=true)
