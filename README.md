@@ -18,7 +18,7 @@
 <h4>print(programming_language)</h4>
 
 
-<h4>what_i_use_for_programming = ("Git | Atom | Visual Studio Code")</h4>
+<h4>what_i_use_for_programming = (" Atom | Visual Studio Code")</h4>
 <h4>print(what_i_use_for_programming)</h4>
 
 
