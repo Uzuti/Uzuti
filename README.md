@@ -30,4 +30,4 @@
 <hr>
 <br>
 
-![Metrics](https://metrics.lecoq.io/Uzuti?template=classic&languages=1&tweets=1&stars=1&posts=1&languages.colors=github&posts.source=undefined&posts.limit=4&posts.user=.user.login&stars.limit=4&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Europe%2FBudapest&config.animated=true)
+![Metrics](https://metrics.lecoq.io/Uzuti?template=classic&languages=1&isocalendar=1&activity=1&tweets=1&posts=1&stars=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=undefined&activity.timestamps=false&isocalendar.duration=undefined&languages.colors=github&languages.threshold=0%25&stars.limit=4&posts.source=undefined&posts.limit=4&posts.user=Uzuti&tweets.limit=2&tweets.user=Uzutixd&config.timezone=Europe%2FBudapest&config.animated=true)
