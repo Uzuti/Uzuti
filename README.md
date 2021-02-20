@@ -14,11 +14,11 @@
 <h4>print(me)</h4>
 
 
-<h4>programming_language = ("HTML | CSS | (In progress:) JavaScript, Python")</h4>
+<h4>programming_language = ("HTML | CSS | (In progress:) C#")</h4>
 <h4>print(programming_language)</h4>
 
 
-<h4>what_i_use_for_programming = (" Atom | Visual Studio Code")</h4>
+<h4>what_i_use_for_programming = (" Visual Studio | Visual Studio Code | Atom ")</h4>
 <h4>print(what_i_use_for_programming)</h4>
 
 
