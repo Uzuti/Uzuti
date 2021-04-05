@@ -14,7 +14,7 @@
 <h4>print(me)</h4>
 
 
-<h4>programming_language = ("HTML | CSS | C# | JavaScript")</h4>
+<h4>programming_language = ("HTML | CSS | C# | JavaScript | (A little) Python")</h4>
 <h4>print(programming_language)</h4>
 
 
