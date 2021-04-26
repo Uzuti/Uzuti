@@ -14,7 +14,7 @@
 <h4>print(me)</h4>
 
 
-<h4>programming_language = ("HTML | CSS | C# | JavaScript | (A little) Python")</h4>
+<h4>programming_language = ("HTML | CSS | C# | (A little) Python, JavaScript")</h4>
 <h4>print(programming_language)</h4>
 
 
@@ -30,4 +30,4 @@
 <hr>
 <br>
 
-![Metrics](https://metrics.lecoq.io/Uzuti?template=classic&languages=1&isocalendar=1&activity=1&tweets=1&posts=1&stars=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=undefined&activity.timestamps=false&isocalendar.duration=undefined&languages.colors=github&languages.threshold=0%25&stars.limit=4&posts.source=undefined&posts.limit=4&posts.user=Uzuti&tweets.limit=2&tweets.user=Uzutixd&config.timezone=Europe%2FBudapest&config.animated=true)
+![Metrics](https://metrics.lecoq.io/Uzuti?template=classic&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FBudapest)
