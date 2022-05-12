@@ -6,19 +6,19 @@
 <h4>print(name)</h4>
 
 
-<h4>interests = ("Languages, Technology, Engineering, Programming")</h4>
+<h4>interests = ("Languages, Technology, Programming")</h4>
 <h4>print(interests)</h4>
 
 
-<h4>me = ("I'm a 16 y/o Hungarian student")</h4>
+<h4>me = ("I'm a 17 y/o Hungarian student")</h4>
 <h4>print(me)</h4>
 
 
-<h4>programming_language = ("HTML | CSS | C# | (A little) Python, JavaScript")</h4>
+<h4>programming_language = ("HTML | SCSS | C# | Python | JavaScript")</h4>
 <h4>print(programming_language)</h4>
 
 
-<h4>what_i_use_for_programming = (" Visual Studio | Visual Studio Code | Atom ")</h4>
+<h4>what_i_use_for_programming = (" Visual Studio Code | PyCharm ")</h4>
 <h4>print(what_i_use_for_programming)</h4>
 
 
