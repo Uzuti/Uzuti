@@ -20,7 +20,7 @@
   >    
   >    * ⏭ Next.js
   >
-  >    * 🍃 MongoDB
+  >    * 🐬 SQL
   >  
   >    * ✍ TypeScript
 
