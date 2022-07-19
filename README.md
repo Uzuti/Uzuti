@@ -20,7 +20,7 @@
   >    
   >    * ⏭ Next.js
   >
-  >    * 🐬 SQL
+  >    * 🟩 Node.js
   >  
   >    * ✍ TypeScript
 
